@@ -1,0 +1,44 @@
+.img_redes{
+    height: 40px;
+    width: 40px;
+}
+
+.img_luanfelipedacruzbrito{
+    height: 200px;
+    width: 200px;
+    position: absolute;
+    left: 50px;
+    top: 160px;
+}
+
+#menu{
+    background-color: darkblue;
+    position: absolute;
+    height: 565px;
+    width: 350px;
+    left: 0px;
+    top: 0px;
+    bottom: 0px;
+}
+
+#conteudo{
+    background-color:skyblue;
+    position: absolute;
+    height: 565px;
+    width: 980px;
+    left: 300px;
+    top: 0px;
+}
+
+#subconteudo{
+    position: absolute;
+    top: 150px;
+    left: 90px;
+}
+
+#nav{
+    padding-top: 400px;
+    padding-left: 10px;
+    padding-right:70px;
+
+}
